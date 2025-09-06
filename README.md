@@ -39,6 +39,15 @@ I started in psychology, studying how people think and behave while trying to pr
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 
 ---
+## 🤝 Soft Skills  
+
+![Collaboration](https://img.shields.io/badge/Collaboration-4CAF50?style=flat&logo=teams&logoColor=white)  
+![Communication](https://img.shields.io/badge/Communication-2196F3?style=flat&logo=wechat&logoColor=white)  
+![Problem_Solving](https://img.shields.io/badge/Problem_Solving-FF9800?style=flat&logo=lightbulb&logoColor=white)  
+![Adaptability](https://img.shields.io/badge/Adaptability-9C27B0?style=flat&logo=shuffle&logoColor=white)  
+![Ethical_Mindset](https://img.shields.io/badge/Ethical_Mindset-795548?style=flat&logo=handshake&logoColor=white)  
+
+---
 
 ##  Featured Projects  
 
@@ -46,8 +55,7 @@ I started in psychology, studying how people think and behave while trying to pr
 
 - **FinePrint** → Chrome extension for privacy policy summarization.  
 - **ImageBoost** → ML pipeline for MRI denoising, super-resolution, and tumor classification.  
-- **Student Health Modeling** → BRFSS survey data analysis for healthcare outcomes.  
-- **Crisis Detection** → ML + rules pipeline for urgent youth messages.  
+- **Crisis Detection** → ML pipeline for youth crisis messages.  
 - **Healthcare App (What Happens Next?)** → Patient-facing referral support tool.   
 - **A/B Testing (Webflix)** → Streaming service experimentation framework.  
 
@@ -55,13 +63,6 @@ I started in psychology, studying how people think and behave while trying to pr
 
 <details>
   <summary><h3>📂 More About Me</h3></summary>
-
-### 🤝 Soft Skills  
-- Collaboration & teamwork with clinicians, data scientists, and non-technical staff.  
-- Communication → translating technical findings into actionable insights.  
-- Problem-solving in high-stakes environments (crisis lines, healthcare ops).  
-- Adaptability under compliance constraints.  
-- Ethical mindset → mental health, transparency, equitable AI.  
 
 ### 🔒 Compliance & Ethics  
 - Experienced with **HIPAA-compliant workflows** (UC Davis, clinical datasets).  
@@ -71,7 +72,6 @@ I started in psychology, studying how people think and behave while trying to pr
 ### 📊 Impact Metrics  
 - **10M+** hospital & census records analyzed for mental health research.  
 - **95%** reduction in manual policy review time with NLP automation.  
-- **45%** faster analysis pipeline for school safety data.  
 - **20%** ML model accuracy improvement through optimization.  
 
 </details>

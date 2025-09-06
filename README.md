@@ -46,14 +46,12 @@ My path began in psychology, where I studied how people think and behave while o
 
 ##  Featured Projects  
 
-👉 Full writeups, demos, and visuals live on my [**Portfolio**](https://chelyahmiller.my.canva.site/builds). 
+👉 Full writeups, demos, and visuals for these projects (and more) live on my [**Portfolio**](https://chelyahmiller.my.canva.site/builds). 
 
 - **FinePrint** → Chrome extension for privacy policy summarization.
     - *1st Place (Audience Vote) + 2nd Place (Judges’ Vote) at the USF Entrepreneurship Summit.*   
 - **ImageBoost** → ML pipeline for MRI denoising, super-resolution, and tumor classification.  
 - **Crisis Detection** → ML pipeline for youth crisis messages.
-  ➕ *More projects on my portfolio.*
-
 
 ---
 

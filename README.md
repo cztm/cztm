@@ -1,9 +1,10 @@
 # Hey, I'm Nunya 👋  
 
-I’m a data scientist with a background in **psychology** and a **Master’s in Data Science**.  
-My work focuses on making data **equitable, human-centered, and actionable**.  
+Hi, I’m Nunya — a data scientist with a background in **psychology** and a **Master’s in Data Science**.  
+I build ML pipelines, dashboards, and creative tools — always aiming for **human-centered impact**.  
 
-I’ve built ML pipelines, dashboards, and creative tools like Chrome extensions — always at the intersection of **technical depth** and **social impact**.  
+🌱 Currently learning **Databricks, data lineage & governance, and generative AI security (CIA principles)**.  
+⚡ Fun fact: My cat has supervised more ML experiments than most humans.  
 
 ---
 
@@ -60,35 +61,28 @@ I’ve built ML pipelines, dashboards, and creative tools like Chrome extensions
 ---
 
 <details>
-  <summary>🤝 Soft Skills</summary>
+  <summary>📎 More About Me</summary>
 
-- **Collaboration & Teamwork** → partnered with clinicians, data scientists, and non-technical staff to translate analysis into real-world impact.  
-- **Communication** → skilled at presenting complex technical findings in clear, actionable ways for diverse audiences.  
-- **Problem-Solving** → thrive in messy, high-stakes environments (crisis lines, healthcare operations, data-heavy research).  
-- **Adaptability** → quick to learn new tools, pivot workflows under compliance constraints, and deliver under pressure.  
-- **Ethical Mindset** → strong commitment to mental health, transparency, and equitable AI.  
+### 🤝 Soft Skills  
+- Collaboration & teamwork with clinicians, data scientists, and non-technical staff.  
+- Communication → translating technical findings into actionable insights.  
+- Problem-solving in high-stakes environments (crisis lines, healthcare ops).  
+- Adaptability under compliance constraints.  
+- Ethical mindset → mental health, transparency, equitable AI.  
+
+### 🔒 Compliance & Ethics  
+- Experienced with **HIPAA-compliant workflows** (UC Davis, clinical datasets).  
+- Focused on **ethical AI** in youth safety, healthcare, and legal transparency.  
+- Advocate for **human-centered design** in data science.  
+
+### 📊 Impact Metrics  
+- **10M+** hospital & census records analyzed for mental health research.  
+- **95%** reduction in manual policy review time with NLP automation.  
+- **45%** faster analysis pipeline for school safety data.  
+- **20%** ML model accuracy improvement through optimization.  
+
 </details>
 
----
-
-<details>
-  <summary>🔒 Compliance & Ethics</summary>
-
-- Experienced with **HIPAA-compliant data workflows** (UC Davis, clinical datasets).  
-- Focused on **ethical AI development** in youth safety, healthcare, and legal transparency projects.  
-- Advocate for **human-centered design** in data science solutions.  
-</details>
-
----
-
-<details>
-  <summary>📊 Impact Metrics</summary>
-
-- **10M+** hospital & census records analyzed for mental health research  
-- **95%** reduction in manual policy review time through NLP automation  
-- **45%** faster analysis pipeline for school safety data  
-- **20%** ML model accuracy improvement through optimization  
-</details>
 
 
 <!--

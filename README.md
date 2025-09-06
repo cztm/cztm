@@ -54,6 +54,11 @@ My path began in psychology, where I studied how people think and behave while o
 
 <details>
   <summary><h2>📂 More About Me</h2></summary>
+    
+### 💼 Experience Snapshots  
+- **UC Davis Imaging Research Center** → Cleaned & analyzed 10M+ hospital & census records for burnout studies.  
+- **Give Us The Floor (Internship)** → Built ML + rules pipeline for youth crisis message detection.  
+- **Mental Health Services** → Crisis line and youth behavioral support, grounding my data science in lived impact.  
 
 ### 🔒 Compliance & Ethics  
 - Experienced with **HIPAA-compliant workflows** (UC Davis, clinical datasets).  

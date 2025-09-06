@@ -1,7 +1,8 @@
-#  Hi, I'm Chelyah 
+#  Hi, I'm Chelyah ✨
 I like building things that sit at the intersection of code and people, from Chrome extensions to ML pipelines to dashboards that actually get used. My background’s in psychology, and I’m now a data scientist chasing projects that are both technically solid and socially useful. I love to tackle difficult challenges, navigate a fast-paced environment, and create meaningful change any way that I can. 
 
 🌱 Lately I’m diving into Databricks, data lineage & governance, and the fun (and scary) world of generative AI security.
+
 ⚡ Fun fact: My cat has been my most consistent project supervisor.
 
 ---
@@ -53,7 +54,7 @@ I like building things that sit at the intersection of code and people, from Chr
 ---
 
 <details>
-  <summary> ##📖 Read More About Me</summary>
+  <summary> ## 📖 Read More About Me</summary>
 
 ### 🤝 Soft Skills  
 - Collaboration & teamwork with clinicians, data scientists, and non-technical staff.  

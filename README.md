@@ -57,7 +57,7 @@ My background’s in psychology, and I’m now a data scientist chasing projects
 ---
 
 <details>
-  <summary>📖 Read More About Me</summary>
+  <summary> ##📖 Read More About Me</summary>
 
 ### 🤝 Soft Skills  
 - Collaboration & teamwork with clinicians, data scientists, and non-technical staff.  

@@ -12,7 +12,7 @@ I build ML pipelines, dashboards, and creative tools while always aiming for **h
 
 ---
 
-## 🛠️ Technical Skills  
+## Technical Skills  
 
 **Languages & Core Tools**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -45,7 +45,7 @@ I build ML pipelines, dashboards, and creative tools while always aiming for **h
 
 ---
 
-## 🚀 Featured Projects  
+##  Featured Projects  
 
 👉 Full writeups, demos, and visuals live on my [**Portfolio Website**](https://chelyahmiller.my.canva.site/) 
 

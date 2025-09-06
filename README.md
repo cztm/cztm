@@ -3,7 +3,7 @@ My path began in psychology, where I studied how people think and behave while o
 
 🌱 Lately I’m diving into Databricks, data lineage & governance, and the fun (and scary) world of generative AI security.
 
-⚡ Fun fact: My cat has been my most loyal (and favorite) project supervisor.
+⚡ Fun fact: My cat has been my most consistent (and favorite) project supervisor.
 
 ---
 ## Soft Skills  
@@ -52,7 +52,7 @@ My path began in psychology, where I studied how people think and behave while o
     - *1st Place (Audience Vote) + 2nd Place (Judges’ Vote) at the USF Entrepreneurship Summit.*   
 - **ImageBoost** → ML pipeline for MRI denoising, super-resolution, and tumor classification.  
 - **Crisis Detection** → ML pipeline for youth crisis messages.
-- +\ More on Portfolio. 
+  ➕ *More projects on my portfolio.*
 
 
 ---

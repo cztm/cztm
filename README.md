@@ -1,5 +1,5 @@
 #  Hi, I'm Chelyah ✨
-I like building things that sit at the intersection of code and people, from Chrome extensions to ML pipelines to dashboards that actually get used. My background’s in psychology, and I’m now a data scientist chasing projects that are both technically solid and socially useful. I love to tackle difficult challenges, navigate a fast-paced environment, and create meaningful change any way that I can. 
+I started in psychology, studying how people think and behave. Now I’m a data scientist, chasing the same question with different tools: how do we use data to make life better? Sometimes that means privacy tools, sometimes health dashboards, sometimes machine learning pipelines, but always with a focus on projects that matter.
 
 🌱 Lately I’m diving into Databricks, data lineage & governance, and the fun (and scary) world of generative AI security.
 

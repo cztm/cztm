@@ -41,13 +41,11 @@ I started in psychology, studying how people think and behave while trying to pr
 ---
 ## 🤝 Soft Skills  
 
-![Collaboration](https://img.shields.io/badge/Collaboration-4CAF50?style=flat&logo=Handshake&logoColor=white)  
-![Communication](https://img.shields.io/badge/Communication-2196F3?style=flat&logo=wechat&logoColor=white)  
-![Problem Solving](https://img.shields.io/badge/Problem_Solving-FF9800?style=flat&logo=lightbulb&logoColor=white)  
-![Adaptability](https://img.shields.io/badge/Adaptability-9C27B0?style=flat&logo=airbnb&logoColor=white)  
-![Ethical Mindset](https://img.shields.io/badge/Ethical_Mindset-795548?style=flat&logo=neuralink&logoColor=white)  
-
-  
+![🤝 Collaboration](https://img.shields.io/badge/🤝_Collaboration-4CAF50?style=flat)  
+![💬 Communication](https://img.shields.io/badge/💬_Communication-2196F3?style=flat)  
+![💡 Problem_Solving](https://img.shields.io/badge/💡_Problem_Solving-FF9800?style=flat)  
+![🔄 Adaptability](https://img.shields.io/badge/🔄_Adaptability-9C27B0?style=flat)  
+![🧠 Ethical_Mindset](https://img.shields.io/badge/🧠_Ethical_Mindset-795548?style=flat)  
 
 ---
 

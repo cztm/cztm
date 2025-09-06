@@ -1,14 +1,12 @@
 # Hey, I'm Nunya 👋  
 
 Hi, I’m Nunya — a data scientist with a background in **psychology** and a **Master’s in Data Science**.  
-I build ML pipelines, dashboards, and creative tools — always aiming for **human-centered impact**.  
+I build ML pipelines, dashboards, and creative tools while always aiming for **human-centered impact**.  
 
 🌱 Currently learning **Databricks, data lineage & governance, and generative AI security (CIA principles)**.  
 ⚡ Fun fact: My cat has supervised more ML experiments than most humans.  
 
----
-
-## 🌐 Connect With Me  
+📫 Connect with me below! 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white)](https://your-portfolio-link.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourname)  [![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@yourname)  
 
@@ -49,13 +47,13 @@ I build ML pipelines, dashboards, and creative tools — always aiming for **hum
 
 ## 🚀 Featured Projects  
 
-👉 Full writeups and visuals live on my [**Portfolio Website**](https://your-portfolio-link.com)  
+👉 Full writeups, demos, and visuals live on my [**Portfolio Website**](https://chelyahmiller.my.canva.site/) 
 
 - **FinePrint** → Chrome extension for privacy policy summarization.  
 - **ImageBoost** → ML pipeline for MRI denoising, super-resolution, and tumor classification.  
 - **Student Health Modeling** → BRFSS survey data analysis for healthcare outcomes.  
 - **Crisis Detection** → ML + rules pipeline for urgent youth messages.  
-- **Healthcare App (What Happens Next?)** → Patient-facing referral support tool.  
+- **Healthcare App (What Happens Next?)** → Patient-facing referral support tool.   
 - **A/B Testing (Webflix)** → Streaming service experimentation framework.  
 
 ---

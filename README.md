@@ -52,7 +52,6 @@ My path began in psychology, where I studied how people think and behave while o
 - **ImageBoost** → ML pipeline for MRI denoising, super-resolution, and tumor classification.  
 - **Crisis Detection** → ML pipeline for youth crisis messages.
 
----
 
 <details>
   <summary><h2>📂 More About Me</h2></summary>

@@ -54,7 +54,7 @@ I started in psychology, studying how people think and behave while trying to pr
 ---
 
 <details>
-  <summary><h3>📖 Read More About Me</h3></summary>
+  <summary><h3>📂 More About Me</h3></summary>
 
 ### 🤝 Soft Skills  
 - Collaboration & teamwork with clinicians, data scientists, and non-technical staff.  

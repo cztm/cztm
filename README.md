@@ -41,7 +41,6 @@ My path began in psychology, where I studied how people think and behave while o
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 
-
 ---
 
 ##  Featured Projects  
@@ -56,7 +55,7 @@ My path began in psychology, where I studied how people think and behave while o
 ---
 
 <details>
-  <summary><h3>📂 More About Me</h3></summary>
+  <summary><h2>📂 More About Me</h2></summary>
 
 ### 🔒 Compliance & Ethics  
 - Experienced with **HIPAA-compliant workflows** (UC Davis, clinical datasets).  

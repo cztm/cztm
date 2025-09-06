@@ -1,10 +1,9 @@
-# Hey, I’m Nunya 👋 I like building things that sit at the intersection of code and people, from Chrome extensions to ML pipelines to dashboards that actually get used.
-My background’s in psychology, and I’m now a data scientist chasing projects that are both technically solid and socially useful.
+#  I like building things that sit at the intersection of code and people, from Chrome extensions to ML pipelines to dashboards that actually get used. My background’s in psychology, and I’m now a data scientist chasing projects that are both technically solid and socially useful. I love to tackle difficult challenges, navigate a fast-paced environment, and create meaningful change any way that I can. 
 
 🌱 Lately I’m diving into Databricks, data lineage & governance, and the fun (and scary) world of generative AI security.
 ⚡ Fun fact: My cat has been my most consistent project supervisor.
 
-📫 Connect with me below! 
+Connect with me below! 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white)](https://chelyahmiller.my.canva.site)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/chelyah-miller)  [![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@yourname)  
 

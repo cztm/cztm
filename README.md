@@ -1,9 +1,9 @@
-#  Hi, I'm Chelyah ✨
-I started in psychology, studying how people think and behave while trying to provide the support and empathy I once needed. Now I’m a data scientist, chasing the same question with different tools: how do we use data to make life better? Sometimes that means privacy tools, sometimes health dashboards, sometimes machine learning pipelines; always with a focus on projects that matter.
+#  Hi, I'm Chelyah 👋
+My path began in psychology, where I studied how people think and behave while offering the support I once looked for myself. Today I’m a data scientist, asking the same question in a new way: how can we use data to make life better? Whether through privacy tools, health dashboards, or machine learning pipelines, I focus on building projects that matter.
 
 🌱 Lately I’m diving into Databricks, data lineage & governance, and the fun (and scary) world of generative AI security.
 
-⚡ Fun fact: My cat has been my most consistent project supervisor.
+⚡ Fun fact: My cat has been my most loyal (and favorite) project supervisor.
 
 ---
 
@@ -50,7 +50,7 @@ I started in psychology, studying how people think and behave while trying to pr
 👉 Full writeups, demos, and visuals live on my [**Portfolio**](https://chelyahmiller.my.canva.site/builds) 
 
 - **FinePrint** → Chrome extension for privacy policy summarization.
--    *1st Place (Audience Vote) + 2nd Place (Judges’ Vote) at the USF Entrepreneurship Summit.*   
+    - *1st Place (Audience Vote) + 2nd Place (Judges’ Vote) at the USF Entrepreneurship Summit.*   
 - **ImageBoost** → ML pipeline for MRI denoising, super-resolution, and tumor classification.  
 - **Crisis Detection** → ML pipeline for youth crisis messages.  
 

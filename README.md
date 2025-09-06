@@ -1,14 +1,12 @@
-# Hey, I'm Nunya 👋  
+# Hey, I’m Nunya 👋 I like building things that sit at the intersection of code and people, from Chrome extensions to ML pipelines to dashboards that actually get used.
+My background’s in psychology, and I’m now a data scientist chasing projects that are both technically solid and socially useful.
 
-Hi, I’m Nunya — a data scientist with a background in **psychology** and a **Master’s in Data Science**.  
-I build ML pipelines, dashboards, and creative tools while always aiming for **human-centered impact**.  
-
-🌱 Currently learning **Databricks, data lineage & governance, and generative AI security (CIA principles)**.  
-⚡ Fun fact: My cat has supervised more ML experiments than most humans.  
+🌱 Lately I’m diving into Databricks, data lineage & governance, and the fun (and scary) world of generative AI security.
+⚡ Fun fact: My cat has been my most consistent project supervisor.
 
 📫 Connect with me below! 
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white)](https://your-portfolio-link.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourname)  [![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@yourname)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white)](https://chelyahmiller.my.canva.site)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/chelyah-miller)  [![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@yourname)  
 
 ---
 
@@ -47,7 +45,7 @@ I build ML pipelines, dashboards, and creative tools while always aiming for **h
 
 ##  Featured Projects  
 
-👉 Full writeups, demos, and visuals live on my [**Portfolio Website**](https://chelyahmiller.my.canva.site/) 
+👉 Full writeups, demos, and visuals live on my [**Portfolio**](https://chelyahmiller.my.canva.site/builds) 
 
 - **FinePrint** → Chrome extension for privacy policy summarization.  
 - **ImageBoost** → ML pipeline for MRI denoising, super-resolution, and tumor classification.  
@@ -59,7 +57,7 @@ I build ML pipelines, dashboards, and creative tools while always aiming for **h
 ---
 
 <details>
-  <summary>📎 More About Me</summary>
+  <summary>📖 Read More About Me</summary>
 
 ### 🤝 Soft Skills  
 - Collaboration & teamwork with clinicians, data scientists, and non-technical staff.  

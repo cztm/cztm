@@ -6,6 +6,11 @@ My path began in psychology, where I studied how people think and behave while o
 ⚡ Fun fact: My cat has been my most loyal (and favorite) project supervisor.
 
 ---
+## Soft Skills  
+
+![🤝 Collaboration](https://img.shields.io/badge/🤝_Collaboration-4CAF50?style=flat)  ![💬 Communication](https://img.shields.io/badge/💬_Communication-2196F3?style=flat)  ![💡 Problem_Solving](https://img.shields.io/badge/💡_Problem_Solving-FF9800?style=flat)  ![🔄 Adaptability](https://img.shields.io/badge/🔄_Adaptability-9C27B0?style=flat)  ![🧠 Ethical_Mindset](https://img.shields.io/badge/🧠_Ethical_Mindset-795548?style=flat)  
+
+---
 
 ## Technical Skills  
 
@@ -38,10 +43,6 @@ My path began in psychology, where I studied how people think and behave while o
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 
----
-## Soft Skills  
-
-![🤝 Collaboration](https://img.shields.io/badge/🤝_Collaboration-4CAF50?style=flat)  ![💬 Communication](https://img.shields.io/badge/💬_Communication-2196F3?style=flat)  ![💡 Problem_Solving](https://img.shields.io/badge/💡_Problem_Solving-FF9800?style=flat)  ![🔄 Adaptability](https://img.shields.io/badge/🔄_Adaptability-9C27B0?style=flat)  ![🧠 Ethical_Mindset](https://img.shields.io/badge/🧠_Ethical_Mindset-795548?style=flat)  
 
 ---
 

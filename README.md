@@ -41,11 +41,7 @@ I started in psychology, studying how people think and behave while trying to pr
 ---
 ## 🤝 Soft Skills  
 
-![Collaboration](https://img.shields.io/badge/Collaboration-4CAF50?style=flat&logo=teams&logoColor=white)  
-![Communication](https://img.shields.io/badge/Communication-2196F3?style=flat&logo=wechat&logoColor=white)  
-![Problem_Solving](https://img.shields.io/badge/Problem_Solving-FF9800?style=flat&logo=lightbulb&logoColor=white)  
-![Adaptability](https://img.shields.io/badge/Adaptability-9C27B0?style=flat&logo=shuffle&logoColor=white)  
-![Ethical_Mindset](https://img.shields.io/badge/Ethical_Mindset-795548?style=flat&logo=handshake&logoColor=white)  
+![Collaboration](https://img.shields.io/badge/Collaboration-4CAF50?style=flat&logo=teams&logoColor=white)  ![Communication](https://img.shields.io/badge/Communication-2196F3?style=flat&logo=wechat&logoColor=white)  ![Problem_Solving](https://img.shields.io/badge/Problem_Solving-FF9800?style=flat&logo=lightbulb&logoColor=white)  ![Adaptability](https://img.shields.io/badge/Adaptability-9C27B0?style=flat&logo=shuffle&logoColor=white)  ![Ethical_Mindset](https://img.shields.io/badge/Ethical_Mindset-795548?style=flat&logo=handshake&logoColor=white)  
 
 ---
 
@@ -56,8 +52,7 @@ I started in psychology, studying how people think and behave while trying to pr
 - **FinePrint** → Chrome extension for privacy policy summarization.  
 - **ImageBoost** → ML pipeline for MRI denoising, super-resolution, and tumor classification.  
 - **Crisis Detection** → ML pipeline for youth crisis messages.  
-- **Healthcare App (What Happens Next?)** → Patient-facing referral support tool.   
-- **A/B Testing (Webflix)** → Streaming service experimentation framework.  
+
 
 ---
 

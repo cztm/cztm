@@ -17,15 +17,22 @@ I’ve built ML pipelines, dashboards, and creative tools like Chrome extensions
 
 ## 🛠️ Technical Skills (Quick View)  
 
+**Languages & Core Tools**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
+
+**ML & Data Science**  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)  
+
+**Visualization & BI**  
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)  
+
+**Cloud & Infrastructure**  
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)  
 
@@ -35,24 +42,14 @@ I’ve built ML pipelines, dashboards, and creative tools like Chrome extensions
   <summary>📂 Full Technical Skills (with context)</summary>
 
 **Machine Learning & Modeling**  
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=python&logoColor=white)
-![Random Forest](https://img.shields.io/badge/Random_Forest-228B22?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Neural Networks](https://img.shields.io/badge/Neural_Networks-6A5ACD?style=for-the-badge&logo=pytorch&logoColor=white)  
 Supervised & Unsupervised Learning · Predictive Modeling · Feature Engineering  
 *Applied in: Crisis detection (Give Us The Floor), ImageBoost MRI pipeline*  
 
 **Programming & Core Tools**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+Python · R · SQL · Bash · Git  
 *Core toolkit across all projects — from Chrome extensions to healthcare analytics*  
 
 **Data Engineering & Infrastructure**  
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)  
 ETL pipelines · Cloud storage · Experiment tracking  
 *Applied in: Personal ML projects (GCP + MLflow), Student pipelines (Airflow)*  
 
@@ -63,7 +60,6 @@ Exploratory Data Analysis (EDA) · Regression · Time Series Forecasting · A/B 
 **Healthcare Data**  
 EHR/EMR · Hospital & Census Data · Clinical Assessments (BPRS) · HIPAA Compliance · Longitudinal & Survey Data  
 *Applied in: UC Davis Imaging Research Center (10M+ records), Uplift Family Services, 988 Crisis Lifeline*  
-
 </details>
 
 ---

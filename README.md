@@ -9,9 +9,7 @@ My path began in psychology, where I studied how people think and behave while o
 ## Soft Skills  
 
 ![🤝 Collaboration](https://img.shields.io/badge/🤝_Collaboration-4CAF50?style=flat)  ![💬 Communication](https://img.shields.io/badge/💬_Communication-2196F3?style=flat)  ![💡 Problem_Solving](https://img.shields.io/badge/💡_Problem_Solving-FF9800?style=flat)  ![🔄 Adaptability](https://img.shields.io/badge/🔄_Adaptability-9C27B0?style=flat)  ![🧠 Ethical_Mindset](https://img.shields.io/badge/🧠_Ethical_Mindset-795548?style=flat)  
-
-
-
+<br>
 ## Technical Skills  
 
 **Languages & Core Tools**  
@@ -54,7 +52,7 @@ My path began in psychology, where I studied how people think and behave while o
     - *1st Place (Audience Vote) + 2nd Place (Judges’ Vote) at the USF Entrepreneurship Summit.*   
 - **ImageBoost** → ML pipeline for MRI denoising, super-resolution, and tumor classification.  
 - **Crisis Detection** → ML pipeline for youth crisis messages.
-- + More on Portfolio. 
+- +\ More on Portfolio. 
 
 
 ---

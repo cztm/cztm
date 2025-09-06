@@ -54,7 +54,7 @@ I like building things that sit at the intersection of code and people, from Chr
 ---
 
 <details>
-  <summary> ## 📖 Read More About Me</summary>
+  <summary><b>📖 Read More About Me</b></summary>
 
 ### 🤝 Soft Skills  
 - Collaboration & teamwork with clinicians, data scientists, and non-technical staff.  

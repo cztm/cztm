@@ -1,5 +1,5 @@
 #  Hi, I'm Chelyah ✨
-I started in psychology, studying how people think and behave. Now I’m a data scientist, chasing the same question with different tools: how do we use data to make life better? Sometimes that means privacy tools, sometimes health dashboards, sometimes machine learning pipelines, but always with a focus on projects that matter.
+I started in psychology, studying how people think and behave while trying to provide the support and empathy I once needed. Now I’m a data scientist, chasing the same question with different tools: how do we use data to make life better? Sometimes that means privacy tools, sometimes health dashboards, sometimes machine learning pipelines; always with a focus on projects that matter.
 
 🌱 Lately I’m diving into Databricks, data lineage & governance, and the fun (and scary) world of generative AI security.
 
@@ -54,7 +54,7 @@ I started in psychology, studying how people think and behave. Now I’m a data 
 ---
 
 <details>
-  <summary><b>📖 Read More About Me</b></summary>
+  <summary><h3>📖 Read More About Me</h3></summary>
 
 ### 🤝 Soft Skills  
 - Collaboration & teamwork with clinicians, data scientists, and non-technical staff.  

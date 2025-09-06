@@ -43,9 +43,10 @@ I started in psychology, studying how people think and behave while trying to pr
 
 ![Collaboration](https://img.shields.io/badge/Collaboration-4CAF50?style=flat&logo=Handshake&logoColor=white)  
 ![Communication](https://img.shields.io/badge/Communication-2196F3?style=flat&logo=wechat&logoColor=white)  
-![Problem Solving](https://img.shields.io/badge/Problem_Solving-FF9800?style=flat&logo=protonmail&logoColor=white)  
+![Problem Solving](https://img.shields.io/badge/Problem_Solving-FF9800?style=flat&logo=lightbulb&logoColor=white)  
 ![Adaptability](https://img.shields.io/badge/Adaptability-9C27B0?style=flat&logo=airbnb&logoColor=white)  
-![Ethical Mindset](https://img.shields.io/badge/Ethical_Mindset-795548?style=flat&logo=brains&logoColor=white)  
+![Ethical Mindset](https://img.shields.io/badge/Ethical_Mindset-795548?style=flat&logo=neuralink&logoColor=white)  
+
   
 
 ---
@@ -54,7 +55,8 @@ I started in psychology, studying how people think and behave while trying to pr
 
 👉 Full writeups, demos, and visuals live on my [**Portfolio**](https://chelyahmiller.my.canva.site/builds) 
 
-- **FinePrint** → Chrome extension for privacy policy summarization.  
+- **FinePrint** → Chrome extension for privacy policy summarization.
+-    *1st Place (Audience Vote) + 2nd Place (Judges’ Vote) at the USF Entrepreneurship Summit.*   
 - **ImageBoost** → ML pipeline for MRI denoising, super-resolution, and tumor classification.  
 - **Crisis Detection** → ML pipeline for youth crisis messages.  
 
